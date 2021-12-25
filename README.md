@@ -1,6 +1,8 @@
 # firstRep
-<p> Текст_01</p>
-<p>Text_02</p>
-Текст03
-И тут текст
-А теперь текст из VS
+<style>
+    .test{background-color: blue; font-size: 24px;}
+</style>
+
+<div class="test">
+    <p>Какой-то текст</p>
+</div>
